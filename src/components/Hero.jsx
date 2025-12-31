@@ -58,7 +58,7 @@ export default function Hero() {
               variants={item}
               className="text-4xl md:text-6xl font-bold leading-tight max-w-3xl"
             >
-              AnimateUI..Let's animate your life
+              AnimatedUI..Let's animate your life
             </motion.h1>
 
             {/* Subheading */}
